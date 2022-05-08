@@ -8,11 +8,24 @@ li {
 }
 
 body {
-  text-align:center;
   background-color:slategrey;
 }
 
-ul,
+p,
+h1,
+.image {
+  text-align: center;
+}
+
+ul {
+  width: 300px;
+  margin: 0 auto;
+  list-style-position: inside;
+}
+
+
 ol {
+  width: 600px;
+  margin: 0 auto;
   list-style-position: inside;
 }
