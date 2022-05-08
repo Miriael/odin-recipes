@@ -1,0 +1,18 @@
+h1 {
+  color:tomato;
+}
+
+p,
+li {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body {
+  text-align:center;
+  background-color:slategrey;
+}
+
+ul,
+ol {
+  list-style-position: inside;
+}
